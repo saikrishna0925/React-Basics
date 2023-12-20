@@ -1,0 +1,15 @@
+#banner{
+  height: 768px;
+  background-image: url('https://raw.githubusercontent.com/thatanjan/netflix-clone-yt/youtube/media/banner.jpg');
+  background-size: cover;
+}
+#shade{
+  height: 768px;
+  background-color: rgba(0,0,0,0.5);
+}
+main{
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
